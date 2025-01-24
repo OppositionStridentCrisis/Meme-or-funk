@@ -9,9 +9,12 @@ Yes. Using Geode Texture Loader worked!
 
 You can make yourself!
 
-# Tutorial to install
-Click you file downloaded
+# How to install?
+![Alt text](https://example.com/path/to/Screenshot from 2025-01-24 20-25-33.png)
+Download the zip and extract
 
-Copy the file
+![Alt text](https://example.com/path/to/Screenshot from 2025-01-24 20-26-28.png)
+Copy The mp3 and ogg
 
-Paste the file to Geometry Dash
+![Alt text](https://example.com/path/to/Screenshot from 2025-01-24 20-26-28.png)
+Go Resoure and paste it
