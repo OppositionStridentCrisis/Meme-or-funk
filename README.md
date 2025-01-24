@@ -8,4 +8,3 @@ Yes. Using Geode Texture Loader worked!
 -How more to release?
 
 You can make yourself!
-# Tutorial
