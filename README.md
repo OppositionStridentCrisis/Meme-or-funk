@@ -10,8 +10,11 @@ Yes. Using Geode Texture Loader worked!
 You can make yourself!
 
 # How to install?
--Download The zip and extract
+![Images Alt](https://github.com/A10Interminablerooms/Meme-or-funk/blob/main/Screenshot%20from%202025-01-24%2020-25-33.png?raw=true)
+Download The zip
 
+![Images Alt](https://github.com/A10Interminablerooms/Meme-or-funk/blob/main/Screenshot%20from%202025-01-24%2020-26-13.png?raw=true)
 -Copy The mp3 and ogg
 
+![Images Alt](https://github.com/A10Interminablerooms/Meme-or-funk/blob/main/Screenshot%20from%202025-01-24%2020-26-13.png?raw=true)
 -Go Resourcse and paste
