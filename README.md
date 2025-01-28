@@ -10,9 +10,9 @@ Yes. Using Geode Texture Loader worked!
 You can make yourself!
 
 # How to install?
-Download The zip
+-Download The zip
 
--Copy The mp3 and 
+-Copy The mp3 and ogg
 
 -Go Resourcse and paste
 # Feature Overwiew Sounds
