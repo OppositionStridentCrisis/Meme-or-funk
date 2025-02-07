@@ -24,11 +24,11 @@ You can make yourself!
 - install [Geode Texture pack loader](https://geode-sdk.org/mods/geode.texture-loader)
 - put zip in file Geode Texture pack loader
 ## Using Linux
-Linux just Extre Steps.
+Linux just Extra Steps.
 <p align="center">
   <video src="InstallGuide.mp4" width="500px"></video>
 </p>
 
 <video src="InstallGuide.mp4" width="320" height="240" controls></video>
 
-![Click To Install in linux](InstallGuide.mp4)
+![Click To Install in linux](https://github.com/A10Interminablerooms/Meme-or-funk/blob/6f3918c22195cdf7f6e22739c59ab549d6d65da8/InstallGuide.mp4)
