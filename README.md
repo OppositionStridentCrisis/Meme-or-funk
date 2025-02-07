@@ -23,3 +23,5 @@ You can make yourself!
 - To make sure [Geode](https://geode-sdk.org/) to install
 - install [Geode Texture pack loader](https://geode-sdk.org/mods/geode.texture-loader)
 - put zip in file Geode Texture pack loader
+## Using Linux
+https://github.com/user-attachments/assets/dea60511-d2e0-4b29-a892-74e5e9d8a156
