@@ -23,4 +23,12 @@ You can make yourself!
 - To make sure [Geode](https://geode-sdk.org/) to install
 - install [Geode Texture pack loader](https://geode-sdk.org/mods/geode.texture-loader)
 - put zip in file Geode Texture pack loader
+## Using Linux
+Linux just Extre Steps.
+<p align="center">
+  <video src="InstallGuide.mp4" width="500px"></video>
+</p>
 
+<video src="InstallGuide.mp4" width="320" height="240" controls></video>
+
+![non working video](images/video.mp4)
