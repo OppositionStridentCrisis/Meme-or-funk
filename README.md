@@ -13,8 +13,13 @@ Yes. Using Geode Texture Loader worked!
 
 You can make yourself!
 
-# How to install?
+## How to install?
 - Download Zip
 - Extract
 - Copy
 - Paste to resourecs
+
+## How to install on Android?
+- To make sure [Geode](https://geode-sdk.org/) to install
+- install [Geode Texture pack loader](https://geode-sdk.org/mods/geode.texture-loader)
+- put zip in file Geode Texture pack loader
