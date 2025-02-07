@@ -30,5 +30,3 @@ Linux just Extra Steps.
 </p>
 
 <video src="InstallGuide.mp4" width="320" height="240" controls></video>
-
-![Click To Install in linux](https://github.com/A10Interminablerooms/Meme-or-funk/blob/6f3918c22195cdf7f6e22739c59ab549d6d65da8/InstallGuide.mp4)
