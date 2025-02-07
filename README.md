@@ -31,4 +31,4 @@ Linux just Extre Steps.
 
 <video src="InstallGuide.mp4" width="320" height="240" controls></video>
 
-![non working video](images/video.mp4)
+![Click To Install in linux](InstallGuide.mp4)
