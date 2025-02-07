@@ -1,4 +1,7 @@
-![image ali](https://github.com/A10Interminablerooms/Meme-or-funk/blob/5f2e3cca1b8709f6ffa5b5394020d484185064fa/pack.png)
+<p alight=center>
+  <img src="pack.png" alt="Meme Logo" width=200 />
+</p>
+
 # Meme-or-funk
 This is Texture pack for GD Packs
 
