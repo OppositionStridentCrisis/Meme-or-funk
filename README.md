@@ -24,4 +24,4 @@ You can make yourself!
 - install [Geode Texture pack loader](https://geode-sdk.org/mods/geode.texture-loader)
 - put zip in file Geode Texture pack loader
 ## Install Using Linux Video
-[Compelete Video](https://github.com/A10Interminablerooms/Meme-or-funk/README.md#Install Guide)
+[Compelete Video](https://github.com/A10Interminablerooms/Meme-or-funk/README.md#InstallGuide.webm)
