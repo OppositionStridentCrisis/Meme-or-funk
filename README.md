@@ -7,7 +7,7 @@
 # Meme-or-funk
 This is Texture pack for GD Packs
 All using time.. gonna perfect
-![Download The Lastest](https://github.com/A10Interminablerooms/Meme-or-funk/releases/lastest/download/Meme-or-funk.zip)
+![Download The Lastest](https://github.com/A10Interminablerooms/Meme-or-funk/releases)
 </div>
 
 ## How to install?
