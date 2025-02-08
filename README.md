@@ -2,6 +2,8 @@
   <img src="pack.png" alt="Meme Logo" width=200 />
 </p>
 
+<div align="center">
+
 # Meme-or-funk
 This is Texture pack for GD Packs
 
