@@ -1,7 +1,3 @@
-<p align=center>
-  <img src="pack.png" alt="Meme Logo" width=200 />
-</p>
-
 <div align="center">
 
 # Meme-or-funk
