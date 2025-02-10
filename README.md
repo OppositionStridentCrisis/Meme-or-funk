@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="pack.png" alt="Moon logo" width=200 />
+  <img src="pack.png" alt="Meme logo" width=200 />
 </p>
 
 <div align="center">
