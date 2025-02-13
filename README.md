@@ -28,3 +28,6 @@ All using time.. gonna perfect
 - put zip in file Geode Texture pack loader
 ## Using Linux
 https://github.com/user-attachments/assets/dea60511-d2e0-4b29-a892-74e5e9d8a156
+
+# Geode support upcoming..
+![Image](https://github.com/user-attachments/assets/9a0362c2-24bd-44a8-a23c-8d57265e0352)
