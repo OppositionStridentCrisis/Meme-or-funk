@@ -1,6 +1,4 @@
-<p align=center>
-  <img src="pack.png" alt="Bambi" width=200 />
-</p>
+
 
 # Meme-or-funk-is-back
 This an Texture pack Of Version 2.207
