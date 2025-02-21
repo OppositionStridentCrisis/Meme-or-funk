@@ -1,5 +1,5 @@
 <p align=center>
-  <img src="pack.png" alt="back to normal" width=200 />
+  <img src="pack.png" alt="Bambi" width=200 />
 </p>
 
 # Meme-or-funk-is-back
