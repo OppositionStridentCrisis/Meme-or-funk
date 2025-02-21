@@ -2,7 +2,7 @@
   <img src="pack.png" alt="BAMBI IS BACK???" width=200 />
 </p>
 
-# Meme-or-funk-is-back
+# Meme-or-funk
 This an Texture pack Of Version 2.207
 
 For resources restarting packs
