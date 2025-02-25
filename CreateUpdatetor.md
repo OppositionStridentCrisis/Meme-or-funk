@@ -1,3 +1,7 @@
+# KURUWA SERU update (Geometry Dash)
+Additons:
+- Added Clubstep (KURUWA SERU)
+
 # Changelog (Geometry Dash)
 Additions
 - Rework dash 🦅
