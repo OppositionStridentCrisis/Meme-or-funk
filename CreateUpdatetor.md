@@ -1,9 +1,14 @@
+# Changelog (Geometry Dash)
+Additions:
+- Updated shop.mp3
+- Updated menuLoop.mp3 (Funbot :eagle:)
+
 # KURUWA SERU update (Geometry Dash)
 Additons:
 - Added Clubstep (KURUWA SERU)
 
 # Changelog (Geometry Dash)
-Additions
+Additions:
 - Rework dash 🦅
 
 # Changelog (Geometry Dash)
@@ -15,5 +20,5 @@ Additions:
 Fixes:
 - Fixed pack.png
 
-Additions
+Additions:
 - Updated Changelog
