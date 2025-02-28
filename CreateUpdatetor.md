@@ -1,3 +1,9 @@
+# Hjoim Update (Geometry Dash)
+Additions:
+- Remake tiny dash 😆 🦅
+- Remove bigFONT
+- Added chatFont
+
 # Changelog (Geometry Dash)
 Additions:
 - Updated shop.mp3
