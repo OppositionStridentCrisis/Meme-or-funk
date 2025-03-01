@@ -11,6 +11,6 @@ Download [Geometry Dash On Steam](https://store.steampowered.com/app/322170/Geom
 
 # More Changelog :eagle:
 On March 2025, im going normal update, this at point:
-- Deadlock
+- Deadlocked (unsed)
 - Blast Processing
 - shop3
