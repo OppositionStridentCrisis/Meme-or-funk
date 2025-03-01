@@ -10,7 +10,5 @@ For resources restarting packs
 Download [Geometry Dash On Steam](https://store.steampowered.com/app/322170/Geometry_Dash/)
 
 # More Changelog :eagle:
-On March 2025, im going normal update, this at point:
-- Deadlocked (unsed)
-- Blast Processing
-- shop3
+On April Fools Update :trollface: here a dandy fools:
+- Stereo Madness
