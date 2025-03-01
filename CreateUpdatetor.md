@@ -1,3 +1,11 @@
+# Sync Swapped Update (Geometry Dash)
+Additions:
+- 🦅 Added Sync Deadlocked
+- 🦅 Added shop3.mp3
+
+Fixes:
+:trollface: restart menu and change name
+
 # Hjoim Update (Geometry Dash)
 Additions:
 - Remake tiny dash 😆 🦅
