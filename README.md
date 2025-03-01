@@ -12,3 +12,6 @@ Download [Geometry Dash On Steam](https://store.steampowered.com/app/322170/Geom
 # More Changelog :eagle:
 On April Fools Update :trollface: here a dandy fools:
 - Stereo Madness
+
+# an v4.3.0 before release:
+![Image](https://github.com/user-attachments/assets/2d8d0414-cb65-4e02-a478-15ed3001cf83)
