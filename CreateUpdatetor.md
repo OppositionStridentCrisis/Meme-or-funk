@@ -1,3 +1,7 @@
+# Changelog (Geometry Dash)
+Addition:
+- Better Explode_11.ogg
+
 # Sync Swapped Update (Geometry Dash)
 Additions:
 - 🦅 Added Sync Deadlocked
