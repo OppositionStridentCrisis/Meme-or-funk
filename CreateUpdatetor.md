@@ -1,4 +1,9 @@
 # Changelog (Geometry Dash)
+Additions:
+- Only 1x Better explode.11.ogg
+- Updated Stereo Madness
+
+# Changelog (Geometry Dash)
 Addition:
 - Better Explode_11.ogg
 
