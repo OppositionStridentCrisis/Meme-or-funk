@@ -1,3 +1,10 @@
+# Better Update (Geometry Dash)
+- Added More Mod Geode:
+> geode.texture.loader
+
+- Adding GoldFont bluey
+> Better Bluey
+
 # Changelog (Geometry Dash)
 Additions:
 - Updated Changelog
