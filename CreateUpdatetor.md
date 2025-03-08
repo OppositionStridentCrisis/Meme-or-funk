@@ -1,4 +1,10 @@
+# Changelog (Geometry Dash)
+Additions:
+- Added More Bluey
+> Gj_sheetLaunch
+
 # Better Update (Geometry Dash)
+Additions:
 - Added More Mod Geode:
 > geode.texture.loader
 
