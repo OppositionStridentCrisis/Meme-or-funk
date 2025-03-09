@@ -1,3 +1,11 @@
+# Shaders Update (Geometry Dash)
+Additions:
+- Added Shader Menu Mod:
+> Waste
+Kidding
+
+- Updated Button Mega Hack UHD
+
 # Changelog (Geometry Dash)
 Additions:
 - Added More Bluey
