@@ -1,3 +1,9 @@
+# Montagem Update (Geometry Dash)
+Additions:
+- Rework Dash And Stereo Madness
+- Added BBTSheet04
+- More Inputs
+
 # Shaders Update (Geometry Dash)
 Additions:
 - Added Shader Menu Mod:
