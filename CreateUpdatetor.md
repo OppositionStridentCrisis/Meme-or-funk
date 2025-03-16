@@ -1,4 +1,10 @@
+# Changelog (Geometry Dash)
+The Menu Changelog:
+- Background
+- Tobyadd mod updated
+
 # Mod Update (Geometry Dash)
+Additions:
 - added GDH and Prism Menu
 
 # Montagem Update (Geometry Dash)
