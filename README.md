@@ -9,6 +9,8 @@ For resources restarting packs
 
 Download [Geometry Dash On Steam](https://store.steampowered.com/app/322170/Geometry_Dash/)
 
+ALT VERSION! [Source Code](https://github/OppositionStridentCrisis/Meme-or-funkAlt/)
+
 # More Changelog :eagle:
 On April Fools Update :trollface: here a dandy fools:
 - Stereo Madness
