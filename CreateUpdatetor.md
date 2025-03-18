@@ -1,3 +1,7 @@
+# Excuting Update (Geometry Dash)
+- Fixed All cap
+- Dash Full
+
 # Changelog (Geometry Dash)
 The Menu Changelog:
 - Background
