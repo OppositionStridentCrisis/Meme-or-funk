@@ -12,5 +12,6 @@ Download [Geometry Dash On Steam](https://store.steampowered.com/app/322170/Geom
 ALT VERSION! [Source Code](https://github.com/OppositionStridentCrisis/Meme-or-funkAlt/)
 
 # More Changelog :eagle:
-The Event Weekly Dusted On May 11
-- Like PM 6:06 Event!
+Weekly dusty Cancelled is May 12
+- Dash
+- MenuMusic
